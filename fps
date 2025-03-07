@@ -1,0 +1,6 @@
+cd $HOME/AKMOD_120FPS
+chmod +x menu
+chmod +x unlock
+chmod +x QUICKBMS
+chmkd +x script/repack.bms
+./menu
